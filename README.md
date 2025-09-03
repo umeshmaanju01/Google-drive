@@ -36,7 +36,7 @@ This project is a **frontend practice clone** to sharpen UI/UX design and Tailwi
    git clone https://github.com/umeshmaanju01/google-drive-clone.git
 
 
-   📌 Purpose
+      📌 Purpose
 
 This project was created for frontend development practice.
 It focuses on responsive design, Tailwind CSS styling, and UI architecture.
