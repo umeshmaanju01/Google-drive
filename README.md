@@ -23,7 +23,9 @@ This project is a **frontend practice clone** to sharpen UI/UX design and Tailwi
 
 ## 📸 Screenshots
  
- url("https://github.com/umeshmaanju01/Google-drive/blob/9ae188e4238d535e8f00ede68cedc3eda067104e/gdrive.png.png")
+
+![App Screenshot]( )
+
 
 ---
 
