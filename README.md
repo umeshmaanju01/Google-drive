@@ -33,7 +33,7 @@ This project is a **frontend practice clone** to sharpen UI/UX design and Tailwi
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/google-drive-clone.git
+   git clone https://github.com/umeshmaanju01/google-drive-clone.git
 
 
    📌 Purpose
